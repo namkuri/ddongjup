@@ -1,0 +1,11 @@
+{
+  "name": "tda-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot for tda",
+  "main": "index.js",
+  "author": "namkyu",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
