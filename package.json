@@ -7,5 +7,20 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namkuri/ddongjup.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "bugs": {
+    "url": "https://github.com/namkuri/ddongjup/issues"
+  },
+  "homepage": "https://github.com/namkuri/ddongjup#readme"
 }
